@@ -1,4 +1,4 @@
-# D01.Matplotlib-Seaborn-Titanic-Dataset-Visualization
+# P01.Matplotlib-Seaborn-Titanic-Dataset-Visualization
 ### Matplotlib:
 Plotting two different categories: box plot, barplot, histogram
 
